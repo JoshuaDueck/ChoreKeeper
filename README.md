@@ -19,7 +19,10 @@ Members:
 - Can response x users with y requests per minute concurrently
 
 ## Technologies
-
+- ReactJS
+- NodeJS
+- ExpressJS
+- Mongoose
 
 
 ## User Stories
