@@ -25,7 +25,7 @@ Members:
 ## User Stories
 
 ### Create, update, and delete chores
-- As a person with chores to complete, I want to be able to create, update, and delete chores so that I can keep track of the chores that I need to complete
+- As a busy person, I want to be able to create, update, and delete chores so that I can keep track of the chores that I need to complete
 - Scenario: User compiles their chores in the system
     
     Given that I need to complete some chores\
@@ -41,7 +41,7 @@ Members:
     then the chore is removed from the system
 
 ### View and manage a list of chores
-- As a person with chores to complete, I want to be able view and manage a list of chores per day, week, month, etc. so that I can organize and priorities my chores
+- As a busy person, I want to be able view and manage a list of chores per day, week, month, etc. so that I can organize and priorities my chores
 - Scenario: User manages a list of chores so that they can organize their time
 
     Given that I have entered my chores into the system\
